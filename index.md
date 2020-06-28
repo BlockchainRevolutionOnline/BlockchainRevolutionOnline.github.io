@@ -12,3 +12,7 @@ Key facts:
     * Interviews
     * Best songs
     * Questions
+
+Andreas always said:
+> I will be famous some times
+> I work hard
