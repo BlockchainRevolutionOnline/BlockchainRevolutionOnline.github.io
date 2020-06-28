@@ -14,5 +14,4 @@ Key facts:
     * Questions
 
 Andreas always said:
-> I will be famous some times
-> I work hard
+> I will be famous some times I work hard
